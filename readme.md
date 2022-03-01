@@ -24,5 +24,8 @@
 
 ---
 
-<div align="center"> <img src="./img/print-game.png"> </div>
-
+<div align="center">
+  <img src="./img/print-game.png">
+  
+  Teste o jogo [aqui](https://mecarolme.github.io/jogodacobrinha/).
+</div>
